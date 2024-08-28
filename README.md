@@ -1,5 +1,7 @@
-Nama : Pak Bepe
+Nama : Claudia Paskalia Koesno
 
-NPM : 2201234567
+NPM : 2306275355
 
-Kelas : PBP A
+Kelas : PBP F
+
+Hobi : Nonton
